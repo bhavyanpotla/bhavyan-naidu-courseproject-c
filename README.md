@@ -40,10 +40,12 @@ This project demonstrates core software engineering concepts:
 
 ### Compile:
 ```bash
------------------------
+------------------------
 gcc main.c -o naasongs
 ./naasongs
 naasongs.exe
+------------------------
+---
 
 
  
