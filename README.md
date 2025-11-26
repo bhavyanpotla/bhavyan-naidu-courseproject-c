@@ -102,12 +102,13 @@ nextID global variable increments after each addition
 
 saved and restored even between system boots
 Running the Project in VS Code
+
 ##  Install Required Tools
 
-✔ VS Code
-✔ C/C++ extension
-✔ MinGW or GCC compiler
-✔ Windows OS
+ VS Code
+ C/C++ extension
+ MinGW or GCC compiler
+ Windows OS
 
 2. Create Project Folder
 NaaSongs/
@@ -121,17 +122,17 @@ File → Open Folder → select NaaSongs
 ### Advantages
 
  Data never erased unless user deletes manually
-Low memory usage
-✔ Fast sequential I/O
-✔ Clean modular functions
+ Low memory usage
+ Fast sequential I/O
+ Clean modular functions
 
 ### Limitations
 
-✖ Works only on Windows (due to start "")
-✖ gets() unsafe for production
-✖ No duplicate file prevention
-✖ No space validation for extremely long paths
-✖ Playback depends on Windows file associations
+ Works only on Windows (due to start "")
+ gets() unsafe for production
+ No duplicate file prevention
+ No space validation for extremely long paths
+ Playback depends on Windows file associations
  
 
 
