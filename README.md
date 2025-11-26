@@ -140,7 +140,32 @@ File → Open Folder → select NaaSongs
  No space validation for extremely long paths
  
  Playback depends on Windows file associations
+
+ ## OUTPUT PHOTOS
+ ### 1.add song
+ <img width="1002" height="417" alt="image" src="https://github.com/user-attachments/assets/2e740015-ec7e-4465-b471-c8e54724b658" />
+
+ ### 2.display songs
+ <img width="1011" height="869" alt="image" src="https://github.com/user-attachments/assets/25a1b9fe-9c8a-48a4-9112-dd9cbe8a0195" />
+
+ ### 3.search song
+ <img width="669" height="257" alt="image" src="https://github.com/user-attachments/assets/29dc0ac7-e4a4-444c-ab74-f1430290af7f" />
+
+ ### 4.update song
+ <img width="720" height="232" alt="image" src="https://github.com/user-attachments/assets/bc80d5e8-b4e4-4183-9a7d-8a6c5dd26591" />
+
+ ### 5.delete song
+ <img width="444" height="126" alt="image" src="https://github.com/user-attachments/assets/2e80dd7e-41b9-44b9-a4c0-1f78372af5ad" />
+
+ ### 6.play song
+ <img width="1888" height="963" alt="image" src="https://github.com/user-attachments/assets/60703159-1c3c-44be-a045-b939266eea1e" />
+
+
+
+
+
  
+
 
 
 
